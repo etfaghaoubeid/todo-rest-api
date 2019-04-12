@@ -1,2 +1,3 @@
 # todo-rest-api
-sample todo list restful api
+todo-rest-api is a simple RESTfull API based on express
+### command
