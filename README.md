@@ -5,7 +5,7 @@ todo-rest-api is a simple RESTfull API based on express
 ### Requirements
 * Node.js >= 8
 * MongoDB >= 3.x
-### command 
+### Command 
 ```
 git clone git@github.com:etfaghaoubeid/todo-rest-api.git
 cd todo-rest-api
@@ -13,7 +13,7 @@ npm install
 add your mongodb url to config/config
 node app
 ```
-### api endpoint
+### API endpoint
 ```
 http://localhost:3001/api
 http://localhost:3001/api/addTodo
